@@ -4,19 +4,6 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Syracuse.com"
-            },
-            "author": "Chris Carlson | ccarlson@syracuse.com",
-            "title": "Jimmy Fallon conducts, Tom Brady absorbs boos, and the Carrier Dome comes alive - syracuse.com",
-            "description": "The presence of Tom Brady, Jimmy Fallon and Julian Edelman brought a little extra fun to the Carrier Dome on Saturday.",
-            "url": "https://www.syracuse.com/orangebasketball/2020/03/jimmy-fallon-conducts-tom-brady-absorbs-boos-and-the-carrier-dome-comes-alive.html",
-            "urlToImage": "https://www.syracuse.com/resizer/yi6G8Wod1eiBQWhvG4LajysLHRg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PPJQRLYTPVHJHBHCLQUVXBVETY.JPG",
-            "publishedAt": "2020-03-01T03:48:00Z",
-            "content": "Syracuse, N.Y. -- Jimmy Fallon played cheerleader. He played conductor. And, in front of good friend Tom Brady, he put together a pretty good audition tape at quarterback, too.\r\nFallon stole the show at the Carrier Dome on Saturday, providing the highlights t… [+6542 chars]"
-        },
-        {
-            "source": {
                 "id": "engadget",
                 "name": "Engadget"
             },
@@ -34,38 +21,12 @@
                 "name": "Youtube.com"
             },
             "author": null,
-            "title": "UFC Norfolk: Deiveson Figueiredo and Joseph Benavidez Octagon Interview - UFC - Ultimate Fighting Championship",
-            "description": "Hear from Deiveson Figueiredo after his big win over Joseph Benavidez in the main event of Fight Night Norfolk on Saturday night. Subscribe to get all the la...",
-            "url": "https://www.youtube.com/watch?v=HVEIj-i448E",
-            "urlToImage": "https://i.ytimg.com/vi/HVEIj-i448E/maxresdefault.jpg",
-            "publishedAt": "2020-03-01T03:33:34Z",
-            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Youtube.com"
-            },
-            "author": null,
             "title": "1st coronavirus death in the US confirmed - ABC News",
             "description": "Washington declared a state of emergency after a man in his 50s, who did not travel to China, died from the virus.",
             "url": "https://www.youtube.com/watch?v=KovfCPMJU24",
             "urlToImage": "https://i.ytimg.com/vi/KovfCPMJU24/maxresdefault.jpg",
             "publishedAt": "2020-03-01T03:21:14Z",
             "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "https://www.facebook.com/washpostvisuals",
-            "title": "Exit polls from the 2020 South Carolina Democratic primary - Washington Post",
-            "description": "See the strengths and weaknesses of each Democratic candidate, according to a survey of voters as they exited randomly selected voting sites across the state.",
-            "url": "https://www.washingtonpost.com/graphics/politics/exit-polls-2020-south-carolina-primary/",
-            "urlToImage": "https://www.washingtonpost.com/resizer/pflMJK5OJapyUOyaYKQBf6ZifK4=/0x0/filters:focal(0x0:0x0):quality(100)/arc-anglerfish-washpost-prod-washpost/FIL5EJM4TBDCPOOZFSV3V52I3Y.jpg",
-            "publishedAt": "2020-03-01T02:42:05Z",
-            "content": "Analysis Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events. \r\nGroups that candidates are winning by six or more percentage points \r\nFormer vice president Joe Biden, who … [+2640 chars]"
         },
         {
             "source": {
@@ -92,19 +53,6 @@
             "urlToImage": "https://static01.nyt.com/images/2020/02/29/us/politics/00steyer-out/00steyer-out-facebookJumbo.jpg",
             "publishedAt": "2020-03-01T02:20:00Z",
             "content": "In the days before the primary, Mr. Steyers South Carolina staff had swelled to more than 100 workers, many of them young and black South Carolinians.\r\nIn appearances around the state, Mr. Steyer focused his appeal on the economic and environmental injustices… [+1286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Espn.com"
-            },
-            "author": null,
-            "title": "Do-it-all defender Isaiah Simmons posts blistering 4.39 in 40-yard dash - ESPN",
-            "description": "Clemson's Isaiah Simmons was grouped with the linebackers Saturday at the NFL combine and posted a blistering 4.39 in the 40-yard dash, the second-fastest 40 time for a linebacker since Shaquem Griffin in 2018.",
-            "url": "https://www.espn.com/nfl/story/_/id/28811225/do-all-defender-isaiah-simmons-posts-blistering-439-40-yard-dash",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0301%2Fr673316_1296x729_16%2D9.jpg",
-            "publishedAt": "2020-03-01T02:19:03Z",
-            "content": "INDIANAPOLIS -- Clemson do-it-all defender Isaiah Simmons was the brightest star of the night Saturday at the NFL scouting combine.\r\nSimmons, who lined up almost everywhere at some point in the Clemson defense, was put with the linebackers in the on-field wor… [+1580 chars]"
         },
         {
             "source": {
@@ -161,19 +109,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Espn.com"
-            },
-            "author": null,
-            "title": "Kansas, Kansas State players shake hands in rematch after January brawl - ESPN",
-            "description": "Kansas and Kansas State players and coaches met at half court and shook hands prior to Saturday's game -- the first between the two teams since an ugly brawl in January that led to four players being suspended.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/28809834/kansas-kansas-state-players-shake-hands-rematch-january-brawl",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0229%2Fr673011_1296x729_16%2D9.jpg",
-            "publishedAt": "2020-02-29T23:03:05Z",
-            "content": "MANHATTAN, Kan. -- A month after a brawl punctuated the final seconds of their first meeting of the season, players and coaches from Kansas and Kansas State had a positive exchange prior to Saturday's game.\r\nAfter the national anthem, the two teams met at hal… [+3954 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Katu.com"
             },
             "author": "KATU Staff",
@@ -196,19 +131,6 @@
             "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3249956/200229-paris-al-1155_2f33add3dea53c769f911b09e93d108b.nbcnews-fp-1200-630.jpg",
             "publishedAt": "2020-02-29T22:35:00Z",
             "content": "France announced Saturday that it is banning gatherings of more than 5,000 people in confined spaces and recommending that people stop greeting each other with kisses.\r\nThe announcement comes as the French government ramps up its efforts to slow the spread of… [+806 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "Foul weather delays Astra's 1st DARPA Launch Challenge liftoff in Alaska - Space.com",
-            "description": "A new launch date will be determined soon.",
-            "url": "https://www.space.com/astra-darpa-launch-challenge-1st-launch-delayed-again.html",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LLocvF9ECn4Hgf6oMTeiue-1200-80.jpg",
-            "publishedAt": "2020-02-29T21:31:00Z",
-            "content": "Mother Nature has interfered again with a potentially prize-winning launch.\r\nSpaceflight startup Astra\r\n had aimed to launch its first-ever orbital mission today (Feb. 29), from the Pacific Spaceport Complex on Alaska's Kodiak Island. But bad weather  specifi… [+2904 chars]"
         },
         {
             "source": {

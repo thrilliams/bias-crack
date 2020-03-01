@@ -4,8 +4,13 @@ import './main.scss';
 import { newsapi, particles } from './config.json';
 import { articles } from './articleCache.json';
 import Particles from 'react-particles-js';
-import * as imgerr from './404.png';
-import navbar from './navbar.svg';
+import * as imgerr from './img/404.png';
+import navbar from './img/brand/navbar.svg';
+
+import eye from './img/icons/eye.svg';
+import scale from './img/icons/scale.svg';
+import search from './img/icons/search.svg';
+import handshake from './img/icons/handshake.svg';
 
 async function fetchNews(method, params) {
     let searchParams = new URLSearchParams();
@@ -28,33 +33,49 @@ class App extends React.Component {
         this.setState({ ...this.state, page: page });
     }
 
+    setPageHome() {
+        this.setPage('home');
+    }
+
+    setPageFeed() {
+        this.setPage('feed');
+    }
+
     render() {
         return (<>
             <nav>
-                <img src={navbar} alt=""></img>
+                <img src={navbar} alt="Bias Crack" className="clickable" onClick={this.setPageHome.bind(this)}></img>
+                <span className="grow"></span>
+                <p className="clickable" onClick={this.setPageHome.bind(this)}>Home</p>
+                <p className="clickable" onClick={this.setPageFeed.bind(this)}>Feed</p>
             </nav>
             {this.state.page === 'home' ? <Home /> : <ArticleContainer />}
             <Particles params={particles} />
         </>);
-    }    
+    }
 }
 
 function Home() {
-    return (<div className="jumbotron">
+    return (<div id="jumbotron">
         <div className="card">
-            <div className="card-icon"></div>
-            <div className="card-title"></div>
-            <button className="card-btn"></button>
+            <img className="card-icon" src={scale} alt="" />
+            <div className="card-title">Encouraging Open-Mindedness</div>
+            <button className="card-btn">Learn More</button>
         </div>
         <div className="card">
-            <div className="card-icon"></div>
-            <div className="card-title"></div>
-            <button className="card-btn"></button>
+            <img className="card-icon" src={handshake} alt="" />
+            <div className="card-title">Developing Understanding</div>
+            <button className="card-btn">Learn More</button>
         </div>
         <div className="card">
-            <div className="card-icon"></div>
-            <div className="card-title"></div>
-            <button className="card-btn"></button>
+            <img className="card-icon" src={search} alt="" />
+            <div className="card-title">Improving Clarity</div>
+            <button className="card-btn">Learn More</button>
+        </div>
+        <div className="card">
+            <img className="card-icon" src={eye} alt="" />
+            <div className="card-title">Broadening Perspectives</div>
+            <button className="card-btn">Learn More</button>
         </div>
     </div>);
 }
@@ -94,10 +115,10 @@ function Article(props) {
         a.content = undefined;
     } 
     return (<article className="article" key={props.i}>
-        <img onClick={_ => window.open(a.url)} src={a.urlToImage} alt={a.source && a.source.name} onError={e => e.target.src = imgerr}></img>
+        <img className="clickable" onClick={_ => window.open(a.url)} src={a.urlToImage} alt={a.source && a.source.name} onError={e => e.target.src = imgerr}></img>
         <p className="content">{a.content}</p>
         <div className="article-title">
-          <h2 className="title" onClick={_ => window.open(a.url)}>{a.title}</h2>
+          <h2 className="clickable title" onClick={_ => window.open(a.url)}>{a.title}</h2>
           <h4 className="source">{source}</h4>
         </div>
         <h3 className="description">{a.description}</h3>
