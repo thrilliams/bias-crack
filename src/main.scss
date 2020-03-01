@@ -25,12 +25,12 @@ body, #root {
 #root {
     display: grid;
     grid-template-rows: 20vh auto;
-    grid-template-columns: 20vw auto 20vw;
+    grid-template-columns: 10vw auto 10vw;
     grid-template-areas:
     "nav nav     nav"
     ".   content .  ";
 
-    :nth-child(2) {
+    .content {
         grid-area: content;
     }
 
@@ -71,66 +71,103 @@ body, #root {
         background-color: #201a23;
     }
 
-    #jumbotron {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        font-size: 30px;
-        margin-top: 80px;
+    .summary {
+        font-size: 20px;
+    }
 
-        @media screen and (max-width: 768px) {
-            flex-direction: column;
-        }
+    #jumbotron {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-auto-columns: 1fr;
+        grid-auto-flow: column;
+        font-size: 1.75vw;
+        line-height: 2vw;
+        text-align: center;
+        margin-top: 80px;
 
         .card {
             padding: 20px;
+            overflow: hidden;
 
             .card-icon {
-                width: 100%;
+                max-width: 100%;
                 height: auto;
+            }
 
+            .card-title {
+                margin-top: 30px;
             }
 
             .card-btn {
+                margin-top: 20px;
                 background: $light-purple;
                 border: none;
                 border-radius: 20px;
-                width: 100%;
-                height: 40px;
+                padding: 10px;
                 color: $light;
-                font-size: 20px;
+                font-size: 1.75vw;
                 text-align: center;
                 font-weight: bold;
+                font-family: $content;
+            }
+
+            .card-btn:hover {
+                background-color: $purple;
             }
         }
     }
 
+    .blurb {
+        margin-top: 120px;
+        width: 100%;
+        text-align: center;
+
+        .blurb-icon {
+            margin: auto;
+            width: 25vw;
+        }
+
+        .blurb-title {
+            font-size: 3vw;
+        }
+
+        * {
+            font-size: 1.75vw;
+        }
+
+        p {
+            text-align: left;
+            text-indent: 2em;
+        }
+    }
+
+    .section-container {
+        section {
+            margin-top: 25px;
+            background: rgba($light-purple, 0.8);
+            width: 100%;
+            border-radius: 5px;
+            padding: 15px;
+        }
+    }
+
     #article-container {
-        // margin: auto;
         padding: 75px;
-        // width: 60%;
 
         .article {
-            background: $purple;
-            margin-bottom: 75px;
+            margin-bottom: 40px;
             padding: 20px;
-            border-radius: 5px;
+            border-bottom: 4px solid $light-purple;
             display: grid;
 
             grid-template-areas:
-            "img     title"
-            "img     descript"
-            "excerpt excerpt";
+            "img     title    tags"
+            "img     descript tags"
+            "excerpt excerpt  tags";
 
-            grid-template-columns: 2fr 3fr;
+            grid-template-columns: 8fr 12fr 1fr;
             grid-gap: 10px;
             grid-template-rows: repeat(min-content, 3);
-
-            // @media screen and (max-width: 768px) {
-            //     grid-template-areas: "img" "title" "descript" "exerpt";
-            //     grid-template-rows: 3fr ;
-            // }
 
             img {
                 border-radius: 5px;
@@ -161,15 +198,50 @@ body, #root {
 
             h3 {
                 grid-area: descript;
+                background: $purple;
+                border-radius: 5px;
+                padding: 5px;
             }
 
             p {
                 grid-area: excerpt;
             }
-        }
 
-        :last-child {
-            margin-bottom: 0;
+            .tags {
+                grid-area: tags;
+                list-style: none;
+                text-align: center;
+
+                .tag img {
+                    height: 3vh;
+                    width: auto;
+                    color: $light;
+                }
+            }
+        }
+    }
+
+    .form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-items: center;
+        margin-top: 10%;
+
+        div {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-items: center;
+
+            img {
+                width: 6vw;
+                height: 6vw;
+            }
+
+            * {
+                margin: 15px;
+            }
         }
     }
 }

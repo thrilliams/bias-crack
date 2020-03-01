@@ -1,0 +1,26 @@
+[
+    {
+        "id": "openmind",
+        "name": "Encouraging Open-Mindedness",
+        "icon": "scale",
+        "body": "Modern media centers use algorithms to cater to the readers ideological biases in order to keep their attention and profit. This creates a cycle of polarization: the user is fed ideologically similar content to please the reader, while hiding politically challenging ideas. Readers eventually get subdued towards extreme ends of the spectrum because they only see news that already agrees with their beliefs without opposition.\nOur website aims to challenge people by intentionally showing some articles that the reader may dislike to expand their thinking. We abstain from algorithms that only give the reader what they want, and instead show content the reader disagrees with to challenge them."
+    },
+    {
+        "id": "understanding",
+        "name": "Developing Understanding",
+        "icon": "handshake",
+        "body": "In an increasingly interconnected world, it seems like there’s more division in our media than ever. News sites with clear partisan bias, people with viewpoints seemingly set in stone, and the media exacerbating it all. In this world, it’s easy to get caught up in petty squabbles based purely on a lack of understanding of the other side’s views. We work to help people come together by exposing people to opinions that they don’t necessarily share, thereby helping people understand each other better."
+    },
+    {
+        "id": "echochambers",
+        "name": "Reducing Echo Chambers",
+        "icon": "search",
+        "body": "Social media allows large groups of people to communicate quickly and from any location, particularly with like minded individuals. The “share” feature allows certain articles to spread quickly, which means if one person sees something shocking, everyone else in the group will see it as well. The result is “echo chambers”, communities of like-minded people that reinforce their pre-existing ideas, triggering a phenomenon called confirmation bias. We aim to break down these echo chambers by presenting them with dissent in order to expose them more directly to outside viewpoints. Since people of different ideologies are shown the same content, we allow different mindsets to discuss an issue in the comments section."
+    },
+    {
+        "id": "perspective",
+        "name": "Broadening Perspectives",
+        "icon": "eye",
+        "body": "The Dunning-Kruger effect states that people who know very little about a subject think they know much more than they do, because they don’t know enough of the complexities in the field, nor do they understand the boundaries of their knowledge. In other words, people don’t know what they don’t know, so they think everything is black and white. The result is over-simplified articles and solutions that don’t address the nuances of an issue.\nBy intentionally exposing the reader to different perspectives, we aim to break down this effect in people by showing complexities and nuances that users otherwise wouldn’t see from news sources that use algorithms with the sole purpose appeasing the reader."
+    }
+]
