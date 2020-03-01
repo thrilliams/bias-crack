@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Syracuse.com"
+            },
+            "author": "Chris Carlson | ccarlson@syracuse.com",
+            "title": "Jimmy Fallon conducts, Tom Brady absorbs boos, and the Carrier Dome comes alive - syracuse.com",
+            "description": "The presence of Tom Brady, Jimmy Fallon and Julian Edelman brought a little extra fun to the Carrier Dome on Saturday.",
+            "url": "https://www.syracuse.com/orangebasketball/2020/03/jimmy-fallon-conducts-tom-brady-absorbs-boos-and-the-carrier-dome-comes-alive.html",
+            "urlToImage": "https://www.syracuse.com/resizer/yi6G8Wod1eiBQWhvG4LajysLHRg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PPJQRLYTPVHJHBHCLQUVXBVETY.JPG",
+            "publishedAt": "2020-03-01T03:48:00Z",
+            "content": "Syracuse, N.Y. -- Jimmy Fallon played cheerleader. He played conductor. And, in front of good friend Tom Brady, he put together a pretty good audition tape at quarterback, too.\r\nFallon stole the show at the Carrier Dome on Saturday, providing the highlights t… [+6542 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Nearly every top-selling smartphone in 2019 was an iPhone or Galaxy - Engadget",
+            "description": "Few other phone makers got much traction outside of China.",
+            "url": "https://www.engadget.com/2020/02/29/top-selling-smartphones-2019-apple-samsung/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F5fdd99c0-5b49-11ea-bf59-786289738b03%26client%3Da1acac3e1b3290917d92%26signature%3D21d6bcfec659c4154a527f0c6aa42d6c9ccda455&client=amp-blogside-v2&signature=5ef16e71599a1e3e0e57a182550800c4bf1c9acb",
+            "publishedAt": "2020-03-01T03:36:02Z",
+            "content": "Just where these phones dominated is another matter. It won't surprise you to hear that Apple ruled North America, taking all of the top five slots, and took two of the top spots in Europe. In most other places, though, it's a Samsung planet. Samsung had the … [+827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "UFC Norfolk: Deiveson Figueiredo and Joseph Benavidez Octagon Interview - UFC - Ultimate Fighting Championship",
+            "description": "Hear from Deiveson Figueiredo after his big win over Joseph Benavidez in the main event of Fight Night Norfolk on Saturday night. Subscribe to get all the la...",
+            "url": "https://www.youtube.com/watch?v=HVEIj-i448E",
+            "urlToImage": "https://i.ytimg.com/vi/HVEIj-i448E/maxresdefault.jpg",
+            "publishedAt": "2020-03-01T03:33:34Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "1st coronavirus death in the US confirmed - ABC News",
+            "description": "Washington declared a state of emergency after a man in his 50s, who did not travel to China, died from the virus.",
+            "url": "https://www.youtube.com/watch?v=KovfCPMJU24",
+            "urlToImage": "https://i.ytimg.com/vi/KovfCPMJU24/maxresdefault.jpg",
+            "publishedAt": "2020-03-01T03:21:14Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "https://www.facebook.com/washpostvisuals",
+            "title": "Exit polls from the 2020 South Carolina Democratic primary - Washington Post",
+            "description": "See the strengths and weaknesses of each Democratic candidate, according to a survey of voters as they exited randomly selected voting sites across the state.",
+            "url": "https://www.washingtonpost.com/graphics/politics/exit-polls-2020-south-carolina-primary/",
+            "urlToImage": "https://www.washingtonpost.com/resizer/pflMJK5OJapyUOyaYKQBf6ZifK4=/0x0/filters:focal(0x0:0x0):quality(100)/arc-anglerfish-washpost-prod-washpost/FIL5EJM4TBDCPOOZFSV3V52I3Y.jpg",
+            "publishedAt": "2020-03-01T02:42:05Z",
+            "content": "Analysis Analysis Interpretation of the news based on evidence, including data, as well as anticipating how events might unfold based on past events. \r\nGroups that candidates are winning by six or more percentage points \r\nFormer vice president Joe Biden, who … [+2640 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a> and <a href=\"/profiles/brett-mckeehan\">Brett McKeehan</a>, CNN",
+            "title": "First death in the US as coronavirus continues to spread worldwide - CNN International",
+            "description": "The novel coronavirus continues to spread across the world, reaching every continent except Antarctica. Follow here for the latest",
+            "url": "https://www.cnn.com/asia/live-news/coronavirus-outbreak-03-01-20-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200229130905-01-coronavirus-south-korea-0229-super-tease.jpg",
+            "publishedAt": "2020-03-01T02:32:00Z",
+            "content": "For 18-year-old Huang Yiyang, school starts when she opens up her laptop.\r\nOver the past two weeks, there have been no school bells, bustling corridors, busy canteens or uniforms. Instead of physically traveling to her public school in Shanghai, Huang sits at… [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nytimes.com"
+            },
+            "author": "Stephanie Saul, Matt Stevens",
+            "title": "Tom Steyer Drops Out of 2020 Presidential Race - The New York Times",
+            "description": "Mr. Steyer, the former hedge-fund executive, exited the race after a disappointing finish in South Carolina — a state where he had spent considerable resources and pinned the hopes of his campaign.",
+            "url": "https://www.nytimes.com/2020/02/29/us/politics/tom-steyer-drops-out.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/02/29/us/politics/00steyer-out/00steyer-out-facebookJumbo.jpg",
+            "publishedAt": "2020-03-01T02:20:00Z",
+            "content": "In the days before the primary, Mr. Steyers South Carolina staff had swelled to more than 100 workers, many of them young and black South Carolinians.\r\nIn appearances around the state, Mr. Steyer focused his appeal on the economic and environmental injustices… [+1286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Do-it-all defender Isaiah Simmons posts blistering 4.39 in 40-yard dash - ESPN",
+            "description": "Clemson's Isaiah Simmons was grouped with the linebackers Saturday at the NFL combine and posted a blistering 4.39 in the 40-yard dash, the second-fastest 40 time for a linebacker since Shaquem Griffin in 2018.",
+            "url": "https://www.espn.com/nfl/story/_/id/28811225/do-all-defender-isaiah-simmons-posts-blistering-439-40-yard-dash",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0301%2Fr673316_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-03-01T02:19:03Z",
+            "content": "INDIANAPOLIS -- Clemson do-it-all defender Isaiah Simmons was the brightest star of the night Saturday at the NFL scouting combine.\r\nSimmons, who lined up almost everywhere at some point in the Clemson defense, was put with the linebackers in the on-field wor… [+1580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "Samsung Blames the Coronavirus for the Galaxy S20’s Horrible Sales Numbers - Gizmodo",
+            "description": "Samsung sold 70,800 units of the Galaxy S20 line on the first day in South Korea. Compared to sales of the Galaxy S10 line, which sold 140,000 units in the first day, that's kind of bad. But Samsung has an answer: It's because of the coronavirus.",
+            "url": "https://gizmodo.com/samsung-blames-the-coronavirus-for-the-galaxy-s20-s-hor-1841998615",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/zxkw4g837t8g5bsoozpw.jpg",
+            "publishedAt": "2020-03-01T00:07:00Z",
+            "content": "As you all might have noticed, the coronavirus outbreak is affecting a lot of things in the tech world, from huge conferences to international and domestic travel, among others. Now, Samsung is also blaming coronavirus, officially known as COVID-19, for the n… [+2555 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Leah Asmelash, CNN",
+            "title": "The surgeon general wants Americans to stop buying face masks - CNN",
+            "description": "US Surgeon General Jerome Adams says Americans should stop buying face masks over fears of coronavirus.",
+            "url": "https://www.cnn.com/2020/02/29/health/face-masks-coronavirus-surgeon-general-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200214171738-coronavirus-efecto-mercados-economia-economias-paises-afectados-portafolio-global-cnnee-00000000-super-tease.jpg",
+            "publishedAt": "2020-02-29T23:49:00Z",
+            "content": "Seriously people- STOP BUYING MASKS! \r\nThey are NOT effective in preventing general public from catching #Coronavirus, but if healthcare providers can't get them to care for sick patients, it puts them and our communities at risk! https://t.co/UxZRwxxKL9\r\n— U… [+55 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "David Smith",
+            "title": "'Thank you, God': Trump revels in reign as absolute king of CPAC - The Guardian",
+            "description": "At the grassroots conservative gathering after fronting a coronavirus briefing, the president was back in his happy place",
+            "url": "https://www.theguardian.com/us-news/2020/feb/29/donald-trump-cpac-romney-comey-flag",
+            "urlToImage": "https://i.guim.co.uk/img/media/62afecc6f79206ba4e06dad664682813bc1dd971/0_127_3002_1801/master/3002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a09eceae36a97f4a83dabad8fafbc790",
+            "publishedAt": "2020-02-29T23:16:00Z",
+            "content": "Stop Donald Trump now, Democrats warned at his impeachment trial, or will he take on the aspect of a king.\r\nThe prophecy appears to have been borne out, as the US president hands out jobs to loyalists, purges perceived enemies, pardons convicted criminals and… [+4161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Npr.org"
+            },
+            "author": "",
+            "title": "Joe Coulombe, Founder And Namesake Of Trader Joe's, Dies At 89 - NPR",
+            "description": "The original Trader Joe, who died Friday, opened the first store in 1967 with oddball nautical decor and a guiding principle: \"Trader Joe's is for overeducated and underpaid people.\"",
+            "url": "https://www.npr.org/2020/02/29/810693474/joe-coulombe-founder-and-namesake-of-trader-joes-dies-at-89",
+            "urlToImage": "https://media.npr.org/assets/img/2020/02/29/ap_20060290237277_wide-0e59eb0ace48acc422b13709445fd18e3462ff19.jpg?s=1400",
+            "publishedAt": "2020-02-29T23:11:00Z",
+            "content": "Trader Joe's founder Joe Coulombe, seen around 1985 in Pasadena, Calif., died Friday at the age of 89.\r\nEsme Gibson/AP\r\nThe idea, when stated simply, doesn't exactly inspire scream \"grocery empire.\" Yet that's just what became of the maritime-themed specialty… [+4161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espn.com"
+            },
+            "author": null,
+            "title": "Kansas, Kansas State players shake hands in rematch after January brawl - ESPN",
+            "description": "Kansas and Kansas State players and coaches met at half court and shook hands prior to Saturday's game -- the first between the two teams since an ugly brawl in January that led to four players being suspended.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/28809834/kansas-kansas-state-players-shake-hands-rematch-january-brawl",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0229%2Fr673011_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-02-29T23:03:05Z",
+            "content": "MANHATTAN, Kan. -- A month after a brawl punctuated the final seconds of their first meeting of the season, players and coaches from Kansas and Kansas State had a positive exchange prior to Saturday's game.\r\nAfter the national anthem, the two teams met at hal… [+3954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Katu.com"
+            },
+            "author": "KATU Staff",
+            "title": "Portland Trail Blazer CJ McCollum not signing autographs citing coronavirus concerns - KATU",
+            "description": "PORTLAND, Ore -- Following the first presumptive case of new coronavirus in Oregon, Portland Trail Blazer CJ McCollum has announced that he is not signing autographs for the foreseeable future.  \"I am officially taking a break from signing autographs until fu…",
+            "url": "http://katu.com/news/local/portland-trail-blazer-cj-mccollum-not-signing-autographs-citing-coronavirus-concerns",
+            "urlToImage": "http://static-33.sinclairstoryline.com/resources/media/300e0878-038d-4ef2-8614-4a934250d9a1-large16x9_AP19273752550997.jpg?1583016278387",
+            "publishedAt": "2020-02-29T22:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Nicole Acevedo, Nancy Ing, The Associated Press",
+            "title": "To fight coronavirus, France urges no more greetings with kisses, bans large gatherings - NBC News",
+            "description": "To slow the spread of coronavirus, France bans gatherings of more than 5,000 people and recommends people to stop greeting each other with kisses.",
+            "url": "https://www.nbcnews.com/news/world/fight-coronavirus-france-urges-no-more-greetings-kisses-bans-large-n1145906",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_09/3249956/200229-paris-al-1155_2f33add3dea53c769f911b09e93d108b.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-02-29T22:35:00Z",
+            "content": "France announced Saturday that it is banning gatherings of more than 5,000 people in confined spaces and recommending that people stop greeting each other with kisses.\r\nThe announcement comes as the French government ramps up its efforts to slow the spread of… [+806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "Foul weather delays Astra's 1st DARPA Launch Challenge liftoff in Alaska - Space.com",
+            "description": "A new launch date will be determined soon.",
+            "url": "https://www.space.com/astra-darpa-launch-challenge-1st-launch-delayed-again.html",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/LLocvF9ECn4Hgf6oMTeiue-1200-80.jpg",
+            "publishedAt": "2020-02-29T21:31:00Z",
+            "content": "Mother Nature has interfered again with a potentially prize-winning launch.\r\nSpaceflight startup Astra\r\n had aimed to launch its first-ever orbital mission today (Feb. 29), from the Pacific Spaceport Complex on Alaska's Kodiak Island. But bad weather  specifi… [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Cydney Henderson",
+            "title": "Oprah Winfrey falls down at wellness tour while talking about 'balance;' loses shoes - USA TODAY",
+            "description": "Oprah Winfrey’s wellness tour in Los Angeles got off to a shaky start.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2020/02/29/oprah-winfrey-falls-down-wellness-tour-while-talking-balance/4915060002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/02/29/USAT/5e000a02-7116-487f-9f16-999271b5af22-GTY_1209505953.JPG?crop=2999,1687,x0,y152&width=1600&height=800&fit=bounds",
+            "publishedAt": "2020-02-29T21:23:17Z",
+            "content": "Here are just a few of our favorite things about Oprah Winfrey.\r\nUSA TODAY\r\nOprah Winfreys wellness tour in Los Angeles got off to a shaky start.\r\nThe media mogul, 66, took a nasty tumble at the Forum arena Saturday during her \"Oprahs 2020 Vision: Your Life i… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox.com"
+            },
+            "author": "Riley Beggin",
+            "title": "Trump expands Iran travel ban in wake of first US coronavirus death - Vox.com",
+            "description": "The Trump administration also advised US citizens to limit travel to Italy and South Korea.",
+            "url": "https://www.vox.com/policy-and-politics/2020/2/29/21159273/coronavirus-death-trump-health-officials-travel-ban-iran",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4lAIuPbQfAipvdOMvDamqUiP77w=/0x471:6591x3922/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19756864/1209521355.jpg.jpg",
+            "publishedAt": "2020-02-29T21:19:53Z",
+            "content": "President Donald Trump, Vice President Mike Pence, and senior US health officials announced Saturday afternoon that the Trump administration will respond to a global increase in confirmed cases of the novel coronavirus by expanding its travel ban on Iran and … [+4809 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Lindsey Graham on US-Taliban peace agreement: 'Let's give it a try' - Fox News",
+            "description": "America should give the peace agreement with the Taliban a chance, Sen. Lindsey Graham, R-S.C., said Saturday.",
+            "url": "https://www.foxnews.com/media/lindsey-graham-us-taliban-peace-deal-pompeo-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/GRAHAM.jpg",
+            "publishedAt": "2020-02-29T21:07:30Z",
+            "content": "America should give the peace agreement with the Taliban a chance, Sen. Lindsey Graham, R-S.C., said Saturday.\r\nIn an interview on \"Fox &amp; Friends Weekend\" with hosts Dean Cain, Pete Hegseth and Jedidiah Bila, Graham said he will believe there is peace whe… [+5247 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Michelle Rae Uy",
+            "title": "GDC 2020 “indefinitely postponed” after losing Microsoft, Sony, Epic to coronavirus - TechRadar India",
+            "description": "Read “cancelled”",
+            "url": "https://www.techradar.com/news/gdc-2020-indefinitely-postponed-after-losing-microsoft-sony-epic-to-coronavirus",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nWqh3We3tYgj6XNLTXgfHM-1200-80.jpg",
+            "publishedAt": "2020-02-29T20:41:00Z",
+            "content": "For all its antivirus protection, the tech world is coming to a realization that its no match for deadly biological viruses.\r\nNot only has IDC already predicted that this novel coronavirus could lead to a decline in PC sales this year\r\n, with so many factorie… [+2014 chars]"
+        }
+    ]
+}

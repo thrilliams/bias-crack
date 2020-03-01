@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Alata|Dosis|NTR|Sintony&display=swap');
+
+$light-purple: rgba(158, 71, 112, 1);
+$purple: rgba(99, 29, 118, 1);
+$dark-purple: rgba(46, 37, 50, 1);
+$light: rgba(251, 251, 251, 1);
+$dark: rgba(32, 26, 35, 1);
+
+$content: 'NTR', sans-serif;
+$title: sans-serif;
+
+body, #root {
+    width: 100vw;
+    height: 100vh;
+    font-family: $content;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    display: grid;
+    grid-template-rows: minmax(160px, 20vh) auto;
+
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 30px;
+        background-color: $dark-purple;
+
+        * {
+            flex-grow: 1;
+        }
+
+        img {
+            max-height: 100%;
+            width: auto;
+        }
+    }
+
+    canvas {
+        display: block;
+        position: fixed;
+        z-index: -100;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: #201a23;
+    }
+
+    #article-container {
+        margin: auto;
+        padding: 75px;
+        width: 60%;
+
+        .article {
+            background: $purple;
+            margin-bottom: 75px;
+            padding: 20px;
+            border-radius: 5px;
+            color: $light;
+            display: grid;
+
+            grid-template-areas: "img     title"
+                "img     descript"
+                "excerpt excerpt";
+
+            grid-template-columns: 1fr 2fr;
+            grid-gap: 10px;
+            grid-template-rows: repeat(min-content, 3);
+
+            // @media screen and (max-width: 768px) {
+            //     grid-template-areas: "img" "title" "descript" "exerpt";
+            //     grid-template-rows: 3fr ;
+            // }
+
+            img {
+                border-radius: 5px;
+                max-width: 100%;
+                align-self: center;
+                grid-area: img;
+            }
+
+            .title:hover,
+            img:hover {
+                cursor: pointer;
+            }
+
+            .article-title {
+                grid-area: title;
+            }
+
+            h2 {
+                font-family: $title;
+                font-size: 1.75rem;
+                grid-area: title;
+            }
+
+            h4 {
+                line-height: 1.15em;
+                font-style: italic;
+            }
+
+            h3,
+            p {
+                line-height: 1.15em;
+            }
+
+            h3 {
+                grid-area: descript;
+            }
+
+            p {
+                grid-area: excerpt;
+            }
+        }
+
+        :last-child {
+            margin-bottom: 0;
+        }
+    }
+}
